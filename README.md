@@ -1,6 +1,8 @@
 # esp_firmware
 ESP32 Firmware for the SiPIN experiment data acquisition. Compatible with ESP32-based boards.
 
+PRELIMINARY VERSION: Doesn't include the ADC code, only WiFi management.
+
 ## Instructions
 
 1. Install Arduino IDE.
