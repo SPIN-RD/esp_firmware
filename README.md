@@ -1,7 +1,7 @@
 # esp_firmware
 ESP32 Firmware for the SiPIN experiment data acquisition. Compatible with ESP32-based boards.
 
-##Instructions
+## Instructions
 
 1. Install Arduino IDE.
 2. Add Espressif Systems' repository the Arduino Boards Manager: Go to File->Preferences->Additional Boards Manager URLs, and add "https://dl.espressif.com/dl/package_esp32_index.json".
