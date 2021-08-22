@@ -12,9 +12,6 @@ typedef struct
   char password[128];
 } EpromWifi;
 
-const char* ssid = "Beaucamp";
-const char* password = "jfytj2cXC6LLt3NrWgMX52m8";
-
 const char* softap_ssid = "SiPIN Detector";
 const char* softap_password = "cernwebfest2021";
 
